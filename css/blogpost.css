@@ -1,28 +1,35 @@
-.blogImage img{
-
-    width: 100%;
+.blogImage img {
+    max-width: 60%; 
+    height: auto;
+    border: 2px solid #ccc; 
+    border-radius: 5px; 
 }
-.blogTextAll{
-  background-color: rgb(84, 212, 212,0.1);
-  letter-spacing: 2px;
-  font-size: 1.2rem;
 
+.blogTextAll {
+    background-color: rgba(84, 212, 212, 0.1); 
+    letter-spacing: 2px;
+    font-size: 1.2rem;
 }
-.blogHead{
+
+.blogHead {
     text-transform: capitalize;
 }
-.blogPostMeta{
+
+.blogPostMeta {
     display: flex;
     justify-content: space-between;
 }
-.authorName{
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+.authorName {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-left: 1rem;
 }
-.shareBtn{
+
+.shareBtn {
     margin-right: 2rem;
     margin-top: 1rem;
 }
-.shareBtn svg:hover{
+
+.shareBtn svg:hover {
     cursor: pointer;
 }

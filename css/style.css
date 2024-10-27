@@ -17,7 +17,6 @@ body {
   background-color: #ffffff;
 }
 
-/* Navigation styling */
 .navigation {
   background-color: #ffffff;
   color: #333;
@@ -67,7 +66,6 @@ body {
   background: var(--faintBlue);
 }
 
-/* Header styling */
 header h1 {
   font-size: 2.5em;
   text-align: center;
@@ -76,20 +74,19 @@ header h1 {
 }
 
 .logo {
-    height: 50px; /* Adjust the height of the logo */
-    margin-right: 10px; /* Space between logo and text */
-    vertical-align: middle; /* Aligns the logo with the text */
+    height: 50px; 
+    margin-right: 10px; 
+    vertical-align: middle; 
 }
 
 .logo-text {
-    font-size: 1.5rem; /* Adjust font size */
-    font-weight: bold; /* Make the text bold */
-    color: var(--darkBlue); /* Use your defined dark blue color */
-    letter-spacing: 1px; /* Add slight letter spacing */
-    vertical-align: middle; /* Aligns text with the logo */
+    font-size: 1.5rem; 
+    font-weight: bold;
+    color: var(--darkBlue); 
+    letter-spacing: 1px; 
+    vertical-align: middle; 
 }
 
-/* Content styling */
 .content {
   display: flex;
   justify-content: center;
@@ -98,13 +95,13 @@ header h1 {
   background-color: #ffffff;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
-  margin: 2em 0; /* Add margin for spacing */
+  margin: 2em 0; 
 }
 
 .content-left {
   margin: 1rem;
-  padding: 1rem; /* Consistent padding */
-  text-align: center; /* Centered text for better layout */
+  padding: 1rem; 
+  text-align: center;
 }
 
 .content-left h1 {
@@ -114,10 +111,9 @@ header h1 {
 .content-left p {
   margin: 0;
   line-height: 1.5;
-  font-size: 1.1em; /* Slightly larger font for readability */
+  font-size: 1.1em; 
 }
 
-/* Articles section */
 .home-div-articles {
   padding: 2em;
   border-radius: 10px;
@@ -167,7 +163,6 @@ header h1 {
   color: #666;
 }
 
-/* Member grid */
 .member-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -175,7 +170,6 @@ header h1 {
   margin: 20px 0;
 }
 
-/* Individual member card */
 .member-card {
   text-align: center;
   border: 2px solid #ccc;
@@ -204,7 +198,6 @@ header h1 {
   color: #333;
 }
 
-/* Footer styling */
 footer {
   background-color: var(--faintBlue);
   padding: 1rem;
@@ -215,7 +208,6 @@ footer {
   border-radius: 0 0 10px 10px;
 }
 
-/* Media Queries */
 @media only screen and (max-width: 800px) {
   .navigation {
     flex-direction: column;

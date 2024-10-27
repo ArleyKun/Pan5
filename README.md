@@ -14,12 +14,12 @@ Sa website na ito, pinapahalagahan namin ang iyong privacy. Narito ang mga pangu
 
 ## Paano Gamitin
 
-1. **Bisitahin ang aming website:** [Link to website]
+1. **Bisitahin ang aming website:** [[Link to website](https://arleykun.github.io/Pan5)]
 2. **Tuklasin ang mga nilalaman at impormasyon tungkol sa AI sa sining.**
 
 ## Kontak
 
-Para sa anumang katanungan o mungkahi, mangyaring makipag-ugnayan sa amin sa [email@example.com].
+Para sa anumang katanungan o mungkahi, mangyaring makipag-ugnayan sa amin sa [abaromin0427@gmail.com].
 
 ## Lisensya
 
